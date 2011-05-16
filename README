@@ -1,0 +1,2 @@
+Use: ls folder_with_html_files | ruby fixer.rb
+     ruby fixer.rb file1 file2 file3 file4
